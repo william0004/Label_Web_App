@@ -27,6 +27,12 @@ Label is a small static brand website template built with Bootstrap. It provides
 
 Note: Paths or names may vary depending on local copies; use the repository files as the source of truth.
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src="https://github.com/william0004/Label_Web_App/blob/main/Label_Web_App/gif/project.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## Local Preview (recommended)
 
 This is a static website, so you can open `Index.html` directly in a browser. However, serving the files from a local static server avoids some browser restrictions and is recommended.
